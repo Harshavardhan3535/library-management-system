@@ -14,9 +14,9 @@ A web-based **Library Management System** built using **Java, Hibernate, Servlet
 
 ### Book Transactions & Search
 
-| Issue Book                                | Search Results                            |
+| Issue Book                                | Members List                            |
 | ----------------------------------------- | ----------------------------------------- |
-| ![Issue Book](screenshots/issue-book.png) | ![Search Results](screenshots/search.png) |
+| ![Issue Book](screenshots/issue-book.png) | ![Members List](screenshots/member-list.png) |
 
 ---
 
@@ -66,7 +66,7 @@ A web-based **Library Management System** built using **Java, Hibernate, Servlet
 
 The application follows a layered architecture where HTTP requests are handled by Servlets, business/database operations are separated into appropriate layers, and Hibernate manages persistence with PostgreSQL.
 
-![Library Management System Architecture](screenshots/architecture.png)
+![Library Management System Architecture](screenshots/architecture-diagram.png)
 
 ### Application Flow
 
